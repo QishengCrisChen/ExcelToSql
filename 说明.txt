@@ -1,0 +1,42 @@
+读取excel表，导入到数据库中然后更新正式库
+把DBhelper里的链接修改了。。
+建立好test 和test_1注释掉那个2个存储过称就就应该能用了
+
+CREATE TABLE [dbo].[test](
+	[日期] [datetime] NULL,
+	[车号] [nvarchar](255) NULL,
+	[加气量] [float] NULL,
+	[职员] [nvarchar](255) NULL,
+	[含税单价] [float] NULL,
+	[含税金额] [float] NULL,
+	[单价] [float] NULL,
+	[金额] [float] NULL,
+	[税额] [float] NULL,
+	[备注] [nvarchar](255) NULL,
+	[供应商] [nvarchar](255) NULL,
+	[ID] [int] NULL
+) ON [PRIMARY]
+USE [AIS20140930161237]
+GO
+
+
+CREATE TABLE [dbo].[test_1](
+	[客户户名] [nvarchar](255) NULL,
+	[日期] [datetime] NULL,
+	[车号] [nvarchar](255) NULL,
+	[车次] [float] NULL,
+	[原发数] [float] NULL,
+	[实收数] [float] NULL,
+	[单价] [float] NULL,
+	[扣费] [float] NULL,
+	[金额] [float] NULL,
+	[付回货] [float] NULL,
+	[车队收入] [float] NULL,
+	[供应商] [nvarchar](255) NULL,
+	[亏吨] [float] NULL,
+	[备注] [nvarchar](255) NULL,
+	[id] [int] NULL
+) ON [PRIMARY]
+
+
+

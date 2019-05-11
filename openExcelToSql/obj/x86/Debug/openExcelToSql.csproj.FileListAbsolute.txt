@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.MainForm.resources
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.Properties.Resources.resources
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.exe
+C:\Users\Administrator\Desktop\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.pdb

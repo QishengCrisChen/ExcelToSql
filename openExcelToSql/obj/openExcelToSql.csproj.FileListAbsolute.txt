@@ -1,0 +1,40 @@
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\Debug\openExcelToSql.MainForm.resources
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\Debug\openExcelToSql.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\Debug\openExcelToSql.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\bin\Debug\openExcelToSql.exe
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\bin\Debug\openExcelToSql.pdb
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\Debug\openExcelToSql.exe
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\Debug\openExcelToSql.pdb
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\bin\x86\Debug\openExcelToSql.exe
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\bin\x86\Debug\openExcelToSql.pdb
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\x86\Debug\openExcelToSql.MainForm.resources
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\x86\Debug\openExcelToSql.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\x86\Debug\openExcelToSql.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\x86\Debug\openExcelToSql.exe
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql\openExcelToSql\obj\x86\Debug\openExcelToSql.pdb
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.exe.manifest
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.application
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.exe
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.pdb
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.MainForm.resources
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.exe.manifest
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.application
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.exe
+D:\用户目录\我的文档\Visual Studio 2005\Projects\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.pdb
+F:\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.exe.manifest
+F:\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.application
+F:\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.exe
+F:\openExcelToSql - 副本\openExcelToSql\bin\x86\Debug\openExcelToSql.pdb
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.MainForm.resources
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.Properties.Resources.resources
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.csproj.GenerateResource.Cache
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.exe.manifest
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.application
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.exe
+F:\openExcelToSql - 副本\openExcelToSql\obj\x86\Debug\openExcelToSql.pdb
